@@ -1,0 +1,8 @@
+prefix=/home/xufang/pathcheck/install
+
+Name: serial
+Description: Description of serial
+Version: 1.2.1
+Cflags: -I/home/xufang/pathcheck/install/include
+Libs: -L/home/xufang/pathcheck/install/lib -lserial
+Requires: 

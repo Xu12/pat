@@ -1,0 +1,8 @@
+prefix=/home/xufang/pathcheck/devel
+
+Name: check
+Description: Description of check
+Version: 0.0.0
+Cflags: -I/home/xufang/pathcheck/devel/include
+Libs: -L/home/xufang/pathcheck/devel/lib 
+Requires: 

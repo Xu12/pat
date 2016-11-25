@@ -1,0 +1,2 @@
+check:localization:uwb_driver:viconxbee/serial:viconxbee/vicon
+-DCATKIN_DEVEL_PREFIX=/home/xufang/pathcheck/devel -DCMAKE_INSTALL_PREFIX=/home/xufang/pathcheck/install -G Unix Makefiles

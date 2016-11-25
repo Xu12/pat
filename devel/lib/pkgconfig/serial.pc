@@ -1,0 +1,8 @@
+prefix=/home/xufang/pathcheck/devel
+
+Name: serial
+Description: Description of serial
+Version: 1.2.1
+Cflags: -I/home/xufang/pathcheck/src/viconxbee/serial/include
+Libs: -L/home/xufang/pathcheck/devel/lib -lserial
+Requires: 

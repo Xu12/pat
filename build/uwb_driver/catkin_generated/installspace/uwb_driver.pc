@@ -1,0 +1,8 @@
+prefix=/home/xufang/pathcheck/install
+
+Name: uwb_driver
+Description: Description of uwb_driver
+Version: 0.0.0
+Cflags: -I/home/xufang/pathcheck/install/include
+Libs: -L/home/xufang/pathcheck/install/lib 
+Requires: 

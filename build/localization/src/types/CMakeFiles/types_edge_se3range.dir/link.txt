@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -std=c++11 -Wall -O2 -march=native  -shared -Wl,-soname,libtypes_edge_se3range.so -o /home/xufang/pathcheck/devel/lib/libtypes_edge_se3range.so CMakeFiles/types_edge_se3range.dir/types_edge_se3range.cpp.o -lg2o_core -lg2o_types_slam3d 

@@ -1,0 +1,8 @@
+prefix=/home/xufang/pathcheck/devel
+
+Name: localization
+Description: Description of localization
+Version: 0.0.0
+Cflags: -I/home/xufang/pathcheck/devel/include
+Libs: -L/home/xufang/pathcheck/devel/lib -llocalization
+Requires: eigen_conversions geometry_msgs message_generation message_runtime message_filters roscpp rospy std_msgs
